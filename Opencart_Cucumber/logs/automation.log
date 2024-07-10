@@ -1,0 +1,113 @@
+14:31:42.129 [main] INFO  - Goto my account-->Click on Login.. 
+14:31:42.620 [main] INFO  - Entering email and password.. 
+14:31:43.221 [main] INFO  - clicked on login button...
+14:37:54.088 [main] INFO  - Goto my account-->Click on Login.. 
+14:37:54.563 [main] INFO  - Entering email and password.. 
+14:37:55.143 [main] INFO  - clicked on login button...
+14:49:27.337 [main] INFO  - Goto my account-->Click on Login.. 
+14:49:27.701 [main] INFO  - Entering email and password.. 
+14:49:28.405 [main] INFO  - clicked on login button...
+20:52:00.245 [main] INFO  - Goto my account-->Click on Login.. 
+20:52:00.633 [main] INFO  - Entering email and password.. 
+20:52:01.195 [main] INFO  - clicked on login button...
+20:52:05.767 [main] INFO  - Goto my account-->Click on Login.. 
+20:52:06.216 [main] INFO  - Entering email and password.. 
+20:52:06.729 [main] INFO  - clicked on login button...
+20:52:19.642 [main] INFO  - Goto my account-->Click on Login.. 
+20:52:20.446 [main] INFO  - Entering email and password.. 
+20:52:21.049 [main] INFO  - clicked on login button...
+21:31:24.776 [main] INFO  - Goto my account-->Click on Login.. 
+21:31:25.290 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:25.292 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:25.293 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:31:25.440 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:31:25.443 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:31:25.444 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:31:25.444 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:31:25.444 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:31:25.445 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:31:25.454 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+21:31:25.455 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:31:25.458 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+21:31:25.459 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:31:25.460 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+21:31:25.461 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:31:25.462 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+21:31:25.462 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+21:31:25.509 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+21:31:25.510 [main] TRACE - Resolving type for handle themefd26doctype
+21:31:25.560 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+21:31:25.567 [main] TRACE - Resolving type for handle ctstylesheet4257type
+21:31:25.570 [main] TRACE - Resolving type for handle ctfonts6623type
+21:31:25.574 [main] TRACE - Resolving type for handle ctfont14d8type
+21:31:25.580 [main] TRACE - Resolving type for handle ctfills2c6ftype
+21:31:25.583 [main] TRACE - Resolving type for handle ctfill550ctype
+21:31:25.585 [main] TRACE - Resolving type for handle ctborders0d66type
+21:31:25.588 [main] TRACE - Resolving type for handle ctborderf935type
+21:31:25.591 [main] TRACE - Resolving type for handle ctcellxfs1322type
+21:31:25.595 [main] TRACE - Resolving type for handle ctxf97f7type
+21:31:25.598 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+21:31:25.602 [main] TRACE - Resolving type for handle ctdxfsb26atype
+21:31:25.604 [main] TRACE - Resolving type for handle cttablestyles872ftype
+21:31:25.608 [main] TRACE - Resolving type for handle sstf81fdoctype
+21:31:25.613 [main] TRACE - Resolving type for handle ctsst44f3type
+21:31:25.620 [main] TRACE - Resolving type for handle ctrsta472type
+21:31:25.634 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:31:25.635 [main] TRACE - Resolving type for handle workbookec17doctype
+21:31:25.640 [main] TRACE - Resolving type for handle ctworkbook83c3type
+21:31:25.646 [main] TRACE - Resolving type for handle ctsheets49fdtype
+21:31:25.648 [main] TRACE - Resolving type for handle ctsheet4dbetype
+21:31:25.650 [main] TRACE - Resolving type for handle strelationshipid1e94type
+21:31:25.652 [main] TRACE - Resolving type for handle worksheetf539doctype
+21:31:25.657 [main] TRACE - Resolving type for handle ctworksheet530dtype
+21:31:25.666 [main] TRACE - Resolving type for handle ctcols627ctype
+21:31:25.670 [main] TRACE - Resolving type for handle ctcola95ftype
+21:31:25.682 [main] TRACE - Resolving type for handle ctsheetdata8408type
+21:31:25.685 [main] TRACE - Resolving type for handle ctrowdd39type
+21:31:25.689 [main] TRACE - Resolving type for handle ctcell842btype
+21:31:25.694 [main] TRACE - Resolving type for handle stcellrefe4e0type
+21:31:25.698 [main] TRACE - Resolving type for handle cthyperlinks6416type
+21:31:25.700 [main] TRACE - Resolving type for handle cthyperlink0c85type
+21:31:25.706 [main] TRACE - Resolving type for handle stxstringf179type
+21:31:25.709 [main] TRACE - Resolving type for handle stcelltypebf95type
+21:31:30.459 [main] INFO  - Goto my account-->Click on Login.. 
+21:31:30.980 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:30.981 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:30.982 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:31:31.012 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:31:44.130 [main] INFO  - Goto my account-->Click on Login.. 
+21:31:44.475 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:44.475 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:44.475 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:31:44.496 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:32:00.612 [main] INFO  - Goto my account-->Click on Login.. 
+21:32:01.076 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:32:01.078 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:32:01.086 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:32:01.103 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:32:14.428 [main] INFO  - Goto my account-->Click on Login.. 
+21:32:14.946 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:32:14.946 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:32:14.946 [main] DEBUG - Parsing relationship: /_rels/.rels
+21:32:14.960 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21:46:10.532 [main] INFO  - Goto my account-->Click on Login.. 
+21:46:10.933 [main] INFO  - Entering email and password.. 
+21:46:11.520 [main] INFO  - clicked on login button...
+21:48:33.762 [main] INFO  - Goto my account-->Click on Login.. 
+21:48:34.271 [main] INFO  - Entering email and password.. 
+21:48:34.782 [main] INFO  - clicked on login button...
+21:52:26.650 [main] INFO  - Goto my account-->Click on Login.. 
+21:52:27.019 [main] INFO  - Entering email and password.. 
+21:52:27.608 [main] INFO  - clicked on login button...
+22:02:08.907 [main] INFO  - Goto my account-->Click on Login.. 
+22:02:09.354 [main] INFO  - Entering email and password.. 
+22:02:09.935 [main] INFO  - clicked on login button...
+22:09:34.125 [main] INFO  - Goto my account-->Click on Login.. 
+22:09:34.524 [main] INFO  - Entering email and password.. 
+22:09:35.109 [main] INFO  - clicked on login button...
+22:17:09.019 [main] INFO  - Goto my account-->Click on Login.. 
+22:17:09.403 [main] INFO  - Entering email and password.. 
+22:17:10.035 [main] INFO  - clicked on login button...
+11:47:06.458 [main] INFO  - Goto my account-->Click on Login.. 
+11:47:06.823 [main] INFO  - Entering email and password.. 
+11:47:07.388 [main] INFO  - clicked on login button...
